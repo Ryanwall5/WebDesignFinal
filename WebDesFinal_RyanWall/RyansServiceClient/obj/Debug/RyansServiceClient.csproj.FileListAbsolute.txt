@@ -1,0 +1,2 @@
+C:\Users\Ryanwall5\Documents\Visual Studio 2015\Projects\Lab7_RyanWall_WebDesign\RyansServiceClient\bin\Debug\RyansServiceClient.exe.config
+C:\Users\Ryanwall5\Documents\Visual Studio 2015\Projects\Lab7_RyanWall_WebDesign\RyansServiceClient\obj\Debug\RyansServiceClient.csprojResolveAssemblyReference.cache
